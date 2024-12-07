@@ -84,3 +84,5 @@ The sales analysis dashboard provides an overview of key performance metrics, sa
 ---
 
 This dashboard provides a clear overview of the business's sales and profitability performance, enabling strategic decision-making to enhance growth and profitability.
+### **Data Visualization**
+<img width="512" alt="MY WORK SCREEN" src="https://github.com/user-attachments/assets/603bf953-0e96-4b6b-a86f-1e992d5bbd7a">
